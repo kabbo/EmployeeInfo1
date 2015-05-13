@@ -1,0 +1,12 @@
+E:\Farida.Asp.net\05-05-2015\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.exe.config
+E:\Farida.Asp.net\05-05-2015\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.csprojResolveAssemblyReference.cache
+E:\Farida.Asp.net\05-05-2015\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.EmployeeInfoUI.resources
+E:\Farida.Asp.net\05-05-2015\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.Properties.Resources.resources
+E:\Farida.Asp.net\05-05-2015\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.csproj.GenerateResource.Cache
+E:\Farida.Asp.net\05-05-2015\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.exe
+E:\Farida.Asp.net\05-05-2015\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.pdb
+E:\Farida.Asp.net\05-05-2015\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.exe
+E:\Farida.Asp.net\05-05-2015\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.pdb
+C:\Users\Web App Develop .Net\Desktop\New folder (2)\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.exe.config
+C:\Users\Web App Develop .Net\Desktop\New folder (2)\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.exe
+C:\Users\Web App Develop .Net\Desktop\New folder (2)\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.pdb
